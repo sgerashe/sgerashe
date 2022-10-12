@@ -7,8 +7,6 @@
 
 - 🔭 I’m currently working on **PVA-Website,PVA-Services,BasePlus-Validation**
 
-- 🌱 I’m currently learning **JavaScript \ TypeScript**
-
 - 👨‍💻 All of my projects are available at [https://github.com/sgerashe](https://github.com/sgerashe)
 
 - 📫 How to reach me **stav.gerashenko@intel.com**
